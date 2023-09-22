@@ -1,3 +1,7 @@
 Adios mundo" 
 no se que estoy haciendo
+<<<<<<< HEAD
 balbaro que duro
+=======
+dcwfrfwfwe
+>>>>>>> rama1
